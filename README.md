@@ -1,4 +1,3 @@
-# Biography
 ### &#x20;Autobiography of Anton Zdravkov Dimitrov
 
 My journey in science began during my undergraduate studies (2016–2020) in Maritime Navigation at Nikola Vaptsarov Naval Academy in Varna, Bulgaria. There, I developed a profound interest in astronomy, navigation, and the practical application of scientific knowledge beyond the maritime domain.
@@ -24,7 +23,7 @@ In 2017, I also completed an IMO-certified course:\
 - **Total International Management and International Communication**\
   These programs deepened my understanding of global communication strategies and crisis response in international maritime and organizational contexts.
 
-After graduating in 2020, I focused on expanding my competencies in the field of economics and leadership. I completed specialized training programs at **Bulgarian Educational Cybernetics**, covering:
+While working full-time at the port as a **foreman** in **port operations** and **operational logistics**, I began expanding my competencies in the field of economics and leadership. I completed specialized training programs at **Bulgarian Educational Cybernetics**, covering:
 
 - **Finance**
 - **Trade and Commerce**
@@ -33,7 +32,7 @@ After graduating in 2020, I focused on expanding my competencies in the field of
 
 These courses helped me build a strong foundation in entrepreneurship, market dynamics, and strategic operations.
 
-After completing this cycle of business-oriented education, I began working at the port as a **foreman** in **port operations** and **operational logistics**, where I continue to work to this day. During my employment, I enrolled in a master's degree in **Cybersecurity (2023–2025)**, balancing full-time responsibilities with academic advancement. In parallel with my cybersecurity studies, I also pursued certifications in blockchain technologies through Udemy, deepening my knowledge in decentralized systems and smart contract development.
+During this period, I also enrolled in a master's degree in **Cybersecurity (2023–2025)**, balancing full-time responsibilities with academic advancement. In parallel with my cybersecurity studies, I pursued certifications in blockchain technologies through Udemy, deepening my knowledge in decentralized systems and smart contract development.
 
 ### Selected Certificates (2020–2023, Udemy)
 
@@ -50,11 +49,13 @@ After completing this cycle of business-oriented education, I began working at t
 
 In March 2025, I received recognition as a **Certified Solana Builder**, issued jointly by HackQuest and the **Solana Foundation**.
 
+During this time, I also began conducting research in the field of artificial intelligence. I explored various machine learning and large language models, including OpenAI's GPT series, Meta's LLaMA, Google’s BERT, and open-source models like Mistral and DeepSeek. These studies allowed me to experiment with model fine-tuning, prompt engineering, and integration with smart contract environments.
+
 
 
 This diversified academic and practical background laid the foundation for my transition into cybersecurity, where I now explore the intersection of science, finance, blockchain, and digital security.
 
-My passion for innovation and scientific exploration remains central to my identity — combining astronomy, navigation, economics,Artificial Intelligent and Cybersecurity to contribute to a sustainable and secure future.
+My passion for innovation and scientific exploration remains central to my identity — combining astronomy, navigation, economics, artificial intelligence, and cybersecurity to contribute to a sustainable and secure future.
 
 Alongside my full-time work at the port, I am also developing several side projects that integrate blockchain and AI technologies:
 
