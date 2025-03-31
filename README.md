@@ -60,13 +60,18 @@ My passion for innovation and scientific exploration remains central to my ident
 Alongside my full-time work at the port, I am also developing several side projects that integrate blockchain and AI technologies:
 
 1. AI off-chain smart contract threat detection management system
+Machine Learning-Based Vulnerability Classification Smart Contracts Using BERT Embeddings
+Solididy- Ethereum
+Rust - Solana
 
-2. AI-driven application for asteroid discovery
+3. AI-driven application for asteroid discovery
 
-3. Integration of blockchain and AI for port logistics and operational efficiency
+4. Integration of blockchain and AI for port logistics and operational efficiency
 
-4. Decentralized investment crypto fund
+5. Decentralized investment crypto fund
 
-5. Quantum Library – a blockchain-integrated scientific publication repository
+6. Quantum Library – a blockchain-integrated scientific publication repository
 
-6. Space-themed video game with AI-based crypto-economy
+7. Space-themed video game with AI-based crypto-economy
+
+8. A Private Tech/AI School for Students (Primary/Secondary)
