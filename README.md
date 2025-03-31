@@ -59,7 +59,7 @@ My passion for innovation and scientific exploration remains central to my ident
 
 Alongside my full-time work at the port, I am also developing several side projects that integrate blockchain and AI technologies:
 
-1. AI off-chain smart contract threat detection management system
+1. AI off-chain smart contract threat detection management system -
 Machine Learning-Based Vulnerability Classification Smart Contracts Using BERT Embeddings
 Solididy- Ethereum
 Rust - Solana
