@@ -55,7 +55,7 @@ During this time, I also began conducting research in the field of artificial in
 
 This diversified academic and practical background laid the foundation for my transition into cybersecurity, where I now explore the intersection of science, finance, blockchain, and digital security.
 
-My passion for innovation and scientific exploration remains central to my identity — combining astronomy, navigation, economics, artificial intelligence, and cybersecurity to contribute to a sustainable and secure future.
+My passion for innovation and scientific exploration remains central to my identity - combining astronomy, navigation, economics, artificial intelligence, and cybersecurity to contribute to a sustainable and secure future.
 
 Alongside my full-time work at the port, I am also developing several side projects that integrate blockchain and AI technologies:
 
