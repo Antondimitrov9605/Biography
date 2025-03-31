@@ -61,35 +61,35 @@ Alongside my full-time work at the port, I am also developing several side proje
 
 1. AI off-chain smart contract threat detection management system -
 Machine Learning-Based Vulnerability Classification Smart Contracts Using BERT Embeddings
-Solididy- Ethereum
-Rust - Solana
+Solididy- Ethereum-
+Rust - Solana-
 
 A Rust and Solidity-based off-chain AI vulnerability detection system for smart contracts on Solana and Ethereum.
 Uses BERT embeddings and ML classification for real-time threat analysis. Aims to improve DeFi security via scalable, decentralized auditing tools.
 
-2. AI-driven application for asteroid discovery
+2. AI-driven application for asteroid discovery-
    A machine learning-based platform for automatic asteroid detection using NASA/Pan-STARRS datasets.
    Integrates with Solana to register discoveries as NFTs and timestamped claims,
     enabling new scientific provenance and citizen science incentive mechanisms.
 
-3. Integration of blockchain and AI for port logistics and operational efficiency
+3. Integration of blockchain and AI for port logistics and operational efficiency-
    A Solana-powered supply chain optimization system for ports, combining AI route prediction with tokenized logistics assets.
    Designed to boost operational efficiency and transparency in maritime and port operations.
 
-4. Decentralized investment crypto fund
+4. Decentralized investment crypto fund-
    A decentralized crypto investment fund with AI strategy ranking and governance mechanisms,
    built on Solana using SPL tokens, smart contract voting and investor dashboards.
    Focus on transparency, community engagement, and performance analytics.
 
-5. Quantum Library – a blockchain-integrated scientific publication repository
+5. Quantum Library – a blockchain-integrated scientific publication repository-
     A decentralized repository for scientific research papers, powered by blockchain timestamping,
     quantum-proof storage, and NFT-based peer review tracking. Uses Solana for metadata,
    access rights, and public proof of originality.
 
-6. Space-themed video game with AI-based crypto-economy
+6. Space-themed video game with AI-based crypto-economy-
     A play-to-earn strategy game using Solana for in-game assets and AI to balance the in-game economy.
    Players explore space, trade, and conquer, while assets are represented by compressed NFTs and staking mechanics.
 
-7. A Private Tech/AI School for Students (Primary/Secondary)
+7. A Private Tech/AI School for Students (Primary/Secondary)-
  An educational platform and token-gated AI academy for children (ages 10–18) with Solana-based identity,
  achievements, and rewards system. Uses AI tutors, interactive dashboards and gamification to engage young learners in blockchain and AI.
