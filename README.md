@@ -48,18 +48,14 @@ During this period, I also enrolled in a master's degree in **Cybersecurity (202
 - Ethereum Blockchain Developer (2023) (5h) – Sebastian Arboleda
 
 In March 2025, I received recognition as a **Certified Solana Builder**, issued jointly by HackQuest and the **Solana Foundation**.
-Currently pursuing advanced AI coursework through HarvardX:
-
-CS50’s Introduction to Artificial Intelligence with Python
-
-Machine Learning and AI with Python (CS109x)
-Focus areas: search algorithms, neural networks, ML pipelines, and Python-based data processing.
 
 During this time, I also began conducting research in the field of artificial intelligence. I explored various machine learning and large language models, including OpenAI's GPT series, Meta's LLaMA, Google’s BERT, and open-source models like Mistral and DeepSeek. These studies allowed me to experiment with model fine-tuning, prompt engineering, and integration with smart contract environments.
 
-
+Currently pursuing advanced AI coursework through HarvardX:
+CS50’s Introduction to Artificial Intelligence with Python
+Machine Learning and AI with Python (CS109x)
+Focus areas: search algorithms, neural networks, ML pipelines, and Python-based data processing.
 This diversified academic and practical background laid the foundation for my transition into cybersecurity, where I now explore the intersection of science, finance, blockchain, and digital security.
-
 My passion for innovation and scientific exploration remains central to my identity - combining astronomy, navigation, economics, artificial intelligence, and cybersecurity to contribute to a sustainable and secure future.
 
 Alongside my full-time work at the port, I am also developing several side projects that integrate blockchain and AI technologies:
