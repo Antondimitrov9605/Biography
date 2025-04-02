@@ -61,10 +61,9 @@ Alongside my full-time work at the port, I am also developing several side proje
 
 1. AI off-chain smart contract threat detection management system -
 Machine Learning-Based Vulnerability Classification Smart Contracts Using BERT Embeddings
-Solididy- Ethereum-
 Rust - Solana-
 
-A Rust and Solidity-based off-chain AI vulnerability detection system for smart contracts on Solana and Ethereum.
+A Rust based off-chain AI vulnerability detection system for smart contracts on Solana .
 Uses BERT embeddings and ML classification for real-time threat analysis. Aims to improve DeFi security via scalable, decentralized auditing tools.
 
 2. AI-driven application for asteroid discovery-
